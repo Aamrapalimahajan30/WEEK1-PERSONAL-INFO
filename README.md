@@ -33,8 +33,11 @@ The program stores and displays personal information using Python basics.
 ==============================
 
 Enter your favourite food: cake
+
 Enter your favourite colour: pink
+
 Enter your favourite game: cricket
+
 
 ------------------------------
  YOUR DETAILS
@@ -47,7 +50,9 @@ Hobby         : Reading
 
 Preferences:
 Favourite Food   : Cake
+
 Favourite Colour : Pink
+
 Favourite game   : Cricket
 
 Thank you for using the program!
