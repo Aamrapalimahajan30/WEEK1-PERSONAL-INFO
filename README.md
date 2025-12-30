@@ -29,25 +29,40 @@ The program stores and displays personal information using Python basics.
 
 ## Sample Output
 ==============================
+
  PERSONAL INFORMATION MANAGER
+ 
 ==============================
 
 Enter your favourite food: cake
+
 Enter your favourite colour: pink
+
 Enter your favourite game: cricket
 
+
 ------------------------------
+
  YOUR DETAILS
+ 
 ------------------------------
 Name          : Aamrapali
+
 Age           : 21 years
+
 Age (Months)  : 252
+
 City          : Pune
+
 Hobby         : Reading
 
-Preferences:
+
+- Preferences:
+
 Favourite Food   : Cake
+
 Favourite Colour : Pink
+
 Favourite game   : Cricket
 
 Thank you for using the program!
